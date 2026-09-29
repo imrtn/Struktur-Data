@@ -236,7 +236,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1]()
+![Screenshot Output Unguide1](https://github.com/imrtn/Struktur-Data/blob/b6e098e1fc265677b745836ef8ff0b40ec2df2ba/Modul%201/Output/unguide1.png)
 
 Program mendeklarasikan dua variabel bertipe float untuk menerima dua bilangan. Input dibaca menggunakan cin. Setelah itu, operator aritmatika digunakan untuk menghitung penjumlahan, pengurangan, perkalian, dan pembagian, lalu hasilnya ditampilkan menggunakan cout.
 
@@ -287,7 +287,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 2_1]()
+![Screenshot Output Unguide2](https://github.com/imrtn/Struktur-Data/blob/b6e098e1fc265677b745836ef8ff0b40ec2df2ba/Modul%201/Output/unguide2.png)
 
 Program menerima bilangan bulat 0 sampai 100. Percabangan if-else digunakan untuk membedakan angka satuan, belasan, puluhan, dan angka 100. Array string satuan menyimpan nama angka dari nol sampai sembilan sehingga nama angka dapat dipanggil berdasarkan indeksnya.
 
@@ -329,7 +329,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 3_1]()
+![Screenshot Output Unguide3](https://github.com/imrtn/Struktur-Data/blob/b6e098e1fc265677b745836ef8ff0b40ec2df2ba/Modul%201/Output/unguide1.png)
 
 Program menerima nilai n sebagai jumlah awal pola. Perulangan for pertama mengatur jumlah baris dari n sampai 1. Perulangan kedua mencetak angka secara menurun dari nilai baris menuju 1, kemudian karakter * dicetak sebagai pembatas. Perulangan ketiga mencetak angka secara menaik dari 1 sampai nilai baris. Setelah seluruh baris selesai, program mencetak satu karakter * pada baris terakhir.
 

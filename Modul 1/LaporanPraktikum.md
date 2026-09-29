@@ -329,7 +329,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguide3](https://github.com/imrtn/Struktur-Data/blob/b6e098e1fc265677b745836ef8ff0b40ec2df2ba/Modul%201/Output/unguide1.png)
+![Screenshot Output Unguide3](https://github.com/imrtn/Struktur-Data/blob/c1d72db16d001bedbfa1003d6ed97d9a7b9d0c9e/Modul%201/Output/unguide3.png)
 
 Program menerima nilai n sebagai jumlah awal pola. Perulangan for pertama mengatur jumlah baris dari n sampai 1. Perulangan kedua mencetak angka secara menurun dari nilai baris menuju 1, kemudian karakter * dicetak sebagai pembatas. Perulangan ketiga mencetak angka secara menaik dari 1 sampai nilai baris. Setelah seluruh baris selesai, program mencetak satu karakter * pada baris terakhir.
 
